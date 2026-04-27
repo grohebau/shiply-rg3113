@@ -36,12 +36,12 @@
       "lng": ""
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
-      "lat": "",
-      "lng": ""
+      "street": "Vrankovec 26",
+      "postal_code": "49223",
+      "city": "Vrankovec, Sveti Križ Začretje",
+      "country": "Kroatien",
+      "lat": "46.09629320953615",
+      "lng": "15.917844410561965"
     }
   }
 }
