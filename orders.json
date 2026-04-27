@@ -1,0 +1,47 @@
+{
+  "SE428152758DE": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Lukas Jensen, Möwenstraße 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Krešo Tretinjak, Vrankovec 26, 49223 Sveti Križ Začretje, Kroatien",
+    "price": "5.140,00 €",
+    "description": "Hersteller: Boom<br>Typ: Trike Highway<br>Fahrgestelnummer: BME1262<br>Erstzulassung: 09.05.1995<br>KM laut Vorbesitzer: 35.715 km<br>Leistung: 84 kW (114 PS)<br>Hubraum: 1.712 cm³<br>Farbe: Rot<br><br>Das Trike ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Krešo Tretinjak<br>Vrankovec 26<br>49223 Sveti Križ Začretje<br>Kroatien<br>Telefon: +385 91 251 3518",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "27.04.2026",
+    "deliveryDate": "04.05.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
