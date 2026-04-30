@@ -1,6 +1,6 @@
 {
   "SE428152758DE": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Lukas Jensen, Möwenstraße 8, 18209 Bad Doberan, Deutschland",
     "receiver": "Krešo Tretinjak, Vrankovec 26, 49223 Sveti Križ Začretje, Kroatien",
@@ -28,10 +28,10 @@
     "orderDate": "27.04.2026",
     "deliveryDate": "04.05.2026",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Berliner Straße 8",
+      "postal_code": "16727",
+      "city": "Velten",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     },
