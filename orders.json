@@ -28,9 +28,9 @@
     "orderDate": "27.04.2026",
     "deliveryDate": "04.05.2026",
     "pickup": {
-      "street": "Berliner Straße 8",
-      "postal_code": "16727",
-      "city": "Velten",
+      "street": "Rotterdamer Str. 32",
+      "postal_code": "90451",
+      "city": "Nürnberg",
       "country": "Deutschland",
       "lat": "",
       "lng": ""
